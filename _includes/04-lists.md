@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Red
+2. Yellow
+3. Blue
+  4. Green
+  5. Pink
