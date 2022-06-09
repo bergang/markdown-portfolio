@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Empathy** is a *very* good attribute.
+It *may* even be my **favorite** attribute in other people.
